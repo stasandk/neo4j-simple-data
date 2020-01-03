@@ -1,16 +1,16 @@
-# neo4j-simple
+# neo4j-simple-data
 
 Neo4j simple wrapper that returns normalized data.
 
 ## Install
 
 ```
-$ npm install neo4j-simple
+$ npm install neo4j-simple-data
 ```
 
 ## Usage
 ```js
-const { Session } = require('neo4j-simple')
+const { Session } = require('neo4j-simple-data')
 
 const connection = {
   host: '127.0.0.1',
