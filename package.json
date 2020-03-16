@@ -1,6 +1,6 @@
 {
   "name": "neo4j-wrapper",
-  "version": "0.4.1",
+  "version": "1.0.0",
   "description": "Neo4j simple wrapper for nodejs that returns normalized data",
   "main": "index.js",
   "homepage": "https://github.com/stasandk/neo4j-wrapper#readme",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "esm": "^3.2.25",
-    "neo4j-driver": "^4.0.1"
+    "neo4j-driver": "^4.0.2"
   },
   "devDependencies": {
     "standard": "^14.3.1"
