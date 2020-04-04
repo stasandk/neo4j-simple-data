@@ -20,6 +20,7 @@ const connection = {
 }
 
 const options = {
+  disableLosslessIntegers: true,
   maxConnectionLifetime: 1 * 60 * 10 * 1000, // 1 hour
   maxConnectionPoolSize: 100,
   connectionAcquisitionTimeout: 1 * 60 * 1000, // 60 seconds

@@ -10,7 +10,6 @@
   "author": "Stanislau Karaban",
   "license": "MIT",
   "dependencies": {
-    "esm": "^3.2.25",
     "neo4j-driver": "^4.0.2"
   },
   "devDependencies": {
